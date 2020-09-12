@@ -1,0 +1,55 @@
+GET http://localhost:3000/api/getStation
+
+###
+
+GET http://localhost:3000/api/getVagon/1
+
+###
+
+GET http://localhost:3000/api/getRoute?from=Киев&to=Львов&date=2020-05-28&time=06:00:00
+
+
+###
+
+GET http://localhost:3000/api/getAllPlace?id=1
+
+###
+
+GET http://localhost:3000/api/getR/1
+
+###
+
+GET http://localhost:3000/api/getSpecV?train=1&vagon=Плацкарт
+
+###
+
+GET http://localhost:3000/api/getNumVagon?train=1&vagon=Люкс
+###
+
+GET http://localhost:3000/api/getTicket?num=1234
+
+###
+
+DELETE  http://localhost:3000/api/deleteServer?tic_id=1
+###
+
+DELETE  http://localhost:3000/api/deleteTicket?tic_id=1
+###
+
+DELETE  http://localhost:3000/api/deletePassenger?pas_id=1
+###
+
+DELETE  http://localhost:3000/api/deleteDocument?doc_id=6
+###
+
+POST  http://localhost:3000/api/addPasDoc?doc_type=Полный&doc_num=1234
+
+###
+
+POST  http://localhost:3000/api/addPasInfo?pas_name=Тимофей&pas_surname=Кравченков&pas_email=grivys@gmail.com
+###
+
+POST  http://localhost:3000/api/addPasTic?tic_price=40.00&fl_id=1&r_st_begin=Харьков&r_st_end=Полтава&tr_id=1&rc_num=1&pl_num=1&tic_num=412325
+###
+
+POST  http://localhost:3000/api/addPasSer?num=5
