@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "040CEB73-19D6-4D00-AB2A-4E7B278812B4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C589B930-7070-4F8D-8224-27065A431EEB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrainIOSApplication/Menu/ContainerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "configureMenuViewController()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "583B38B7-BFDE-4A20-BD65-75982A3EAB7F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrainIOSApplication/cell ticket/ reserved seat/ReservedSeatCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ReservedSeatCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "583B38B7-BFDE-4A20-BD65-75982A3EAB7F - e4d2c3e6a43af225"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainIOSApplication.ReservedSeatCollectionViewCell.init(frame: __C.CGRect) -&gt; TrainIOSApplication.ReservedSeatCollectionViewCell"
+                  moduleName = "TrainIOSApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timofey/Desktop/CourseWork/TrainIOSApplication/TrainIOSApplication/cell%20ticket/%20reserved%20seat/ReservedSeatCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "583B38B7-BFDE-4A20-BD65-75982A3EAB7F - 11d12c036e4e39aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrainIOSApplication.ReservedSeatCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TrainIOSApplication.ReservedSeatCollectionViewCell&gt;"
+                  moduleName = "TrainIOSApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timofey/Desktop/CourseWork/TrainIOSApplication/TrainIOSApplication/cell%20ticket/%20reserved%20seat/ReservedSeatCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "102">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AE57F15-E059-43F7-8172-A34FA742D226"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrainIOSApplication/cell ticket/Registration/AlertView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "showAlert(title:message:alertType:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
