@@ -1,8 +1,10 @@
 # Train App
 DB DESIGN AND DEVELOPMENT "RAILWAY STATION. TICKET SALE "
 
-<img width="306" alt="Screenshot 2021-04-30 at 12 55 29 PM" src="https://user-images.githubusercontent.com/51968448/116679592-6396cf00-a9b3-11eb-83cd-c4b85aac43f6.png">
-<img width="304" alt="Screenshot 2021-04-30 at 12 56 47 PM" src="https://user-images.githubusercontent.com/51968448/116679723-8f19b980-a9b3-11eb-98ef-de72808e219a.png">
+
+https://user-images.githubusercontent.com/51968448/116684068-246b7c80-a9b9-11eb-877e-d57606ba2b69.mp4
+
+
 
 # Program functions:
 ̶ search for flights according to the specified data;
